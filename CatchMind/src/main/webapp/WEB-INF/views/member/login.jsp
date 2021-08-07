@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>캐치마인드</title>
 </head>
 <body>
 		<table id="logintable">

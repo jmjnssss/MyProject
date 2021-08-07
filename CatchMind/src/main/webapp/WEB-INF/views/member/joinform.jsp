@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>나만의 캐치마인드</title>
+<title>캐치마인드</title>
 </head>
 <body>
 

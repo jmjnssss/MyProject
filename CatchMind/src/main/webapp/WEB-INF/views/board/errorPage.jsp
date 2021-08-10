@@ -9,7 +9,7 @@
 </head>
 <body>
 
-
+	<!-- 에러페이지 -->
     <br>
     <div align="center">	
         <img src="https://cdn2.iconfinder.com/data/icons/oops-404-error/64/208_balloon-bubble-chat-conversation-sorry-speech-512.png" width="300">

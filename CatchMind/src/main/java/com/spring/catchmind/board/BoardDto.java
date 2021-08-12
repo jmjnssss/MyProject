@@ -1,4 +1,4 @@
-package com.spring.catchmind.Board;
+package com.spring.catchmind.board;
 
 import java.sql.Date;
 

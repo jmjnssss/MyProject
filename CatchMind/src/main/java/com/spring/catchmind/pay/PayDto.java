@@ -2,6 +2,7 @@ package com.spring.catchmind.pay;
 
 import java.util.Date;
 
+// payDto
 public class PayDto {
 
 	private int pay_no;

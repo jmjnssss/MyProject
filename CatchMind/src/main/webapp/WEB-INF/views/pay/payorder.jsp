@@ -19,7 +19,7 @@
 						readonly="readonly" />
 				</div>
 				<div>
-					<p>게임 구매가</p>
+					<p>캐치마인드 월 이용금액</p>
 					<input name="pay_price" value="10000" class="price"
 						readonly="readonly" />
 				</div>

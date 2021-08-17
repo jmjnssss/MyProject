@@ -2,13 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>캐치마인드</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+	여기는 홈페이지 처음 들어왔을 때 보이는 홈페이지
+
 </body>
 </html>
